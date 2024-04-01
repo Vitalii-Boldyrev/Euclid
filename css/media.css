@@ -1,0 +1,1193 @@
+@media (max-width: 1890px) {
+
+  .hero__container-text {
+    max-width: 100%;
+    flex-direction: column;
+  }
+
+  .hero__btn {
+    max-width: 290px;
+  }
+
+  .about-us__info {
+    width: 48%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+
+  .about-us__image {
+    width: 50%;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+
+
+  .about-us__card {
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+
+  .about-us__card-right {
+    padding: 20px 20px 20px 175px;
+  }
+
+  .about-us__first-card {
+    background-size: 25%;
+    background-position-x: 0px;
+  }
+
+  .about-us__second-card {
+    background-size: 25%;
+    background-position-x: 0px;
+  }
+
+  .stages__img-stage {
+    max-width: 60%;
+  }
+
+  .stages__card {
+    gap: 30px;
+  }
+
+  .stages {
+    margin-bottom: 50px;
+  }
+
+  .questions__list {
+    padding: 50px;
+  }
+
+  .footer__container {
+    gap: 30px;
+  }
+
+  .footer__card-two {
+    padding-left: 0;
+  }
+
+}
+
+
+@media (max-width: 1648px) {
+
+  .hero__container-text {
+    max-width: 90%;
+  }
+
+  .about-us__card {
+    flex-wrap: wrap;
+  }
+
+  .about-us__image {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 30px;
+  }
+
+  .about-us__info {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+  }
+
+  .about-us__card-right {
+    padding: 20px 20px 20px 175px;
+  }
+
+  .about-us__first-card {
+    background-size: 25%;
+    background-position-x: 0px;
+  }
+
+  .about-us__second-card {
+    background-size: 25%;
+    background-position-x: 0px;
+  }
+
+  .stages__img-stage {
+    max-width: 60%;
+  }
+
+  .stages__card {
+    gap: 30px;
+  }
+
+  .stages {
+    margin-bottom: 50px;
+  }
+
+  .questions__list {
+    padding: 50px;
+  }
+
+  .footer__container {
+    gap: 30px;
+  }
+
+  .footer__card-two {
+    padding-left: 0;
+  }
+
+}
+
+@media (max-width: 1250px) {
+
+  .footer__stages-description {
+    display: none;
+  }
+}
+
+
+@media (max-width: 1024px) {
+  .main {
+    margin: 0 auto;
+    margin-bottom: 80px;
+  }
+
+  .container {
+    padding: 0 50px;
+  }
+
+  .header__container {
+    padding: 0 50px;
+  }
+
+  .header {
+    margin-bottom: 39px;
+  }
+
+  .logo {
+    width: 66%;
+  }
+
+  .header__nav {
+    max-width: 540px;
+    margin-right: 105px;
+  }
+
+  .hero {
+    padding: 0 50px;
+    margin-bottom: 36px;
+  }
+
+  .hero__container {
+    padding: 0;
+    background-size: 100% 100%;
+    background-image: url(../img/hero1024.jpg);
+  }
+
+  .hero__text-title {
+    font-size: 60px;
+    margin-bottom: 16px;
+  }
+
+  .hero__btn {
+    padding: 25px 36px;
+    letter-spacing: 0.5px;
+  }
+
+  .hero__container-description {
+    font-size: 20px;
+    margin-bottom: 60px;
+  }
+
+  .hero__container-text {
+    max-width: 100%;
+    padding: 160px 77px;
+  }
+
+  .about-us__image {
+    margin: 0;
+    width: 100%;
+    min-height: 640px;
+    background-image: url(../img/about-us1024.jpg);
+  }
+
+  .about-us__description {
+    margin-bottom: 58px;
+  }
+
+  .about-us__description-card-one {
+    padding-right: 156px;
+  }
+
+  .about-us__card {
+    flex-wrap: wrap;
+    gap: 32px;
+  }
+
+  .about-us__info {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .about-us__card-right {
+    min-height: 295px;
+    padding-top: 67px;
+    padding-right: 155px;
+  }
+
+
+  .about-us__subtitle {
+    margin-bottom: 8px;
+  }
+
+  .about-us {
+    margin-bottom: 80px;
+  }
+
+  .about-us__second-card {
+    background-position-x: 76px;
+    background-size: 21%;
+  }
+
+  .about-us__first-card {
+    background-position-x: 75px;
+    background-size: 21%;
+  }
+
+  .stages__img-stage {
+    width: 50%;
+    object-fit: cover;
+    padding-left: 25px;
+    padding-top: 8px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+  }
+
+  .stages {
+    margin-bottom: 80px;
+  }
+
+  .stages__card {
+    gap: 9px;
+  }
+
+  .stages__description-two {
+    margin-bottom: 26px;
+  }
+
+  .questions__card {
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  .questions__title {
+    margin-bottom: 35px;
+  }
+
+  .questions__list {
+    max-width: 100%;
+    max-height: 231px;
+    padding: 66px 58px;
+  }
+
+  .questions__subtitle {
+    max-width: 100%;
+  }
+
+  .footer__card-three {
+    display: none;
+  }
+
+  .footer {
+    max-height: 594px;
+  }
+
+  .footer__container {
+    padding: 0;
+    padding: 50px;
+    max-height: 594px;
+  }
+
+  .footer__card-two {
+    padding: 0;
+    max-width: 541px;
+  }
+
+  .footer__btn-fill {
+    min-width: 240px;
+  }
+
+  .textarea {
+    margin-bottom: 27px;
+  }
+}
+
+@media (max-width: 992px) {
+
+  .main {
+    margin: 0 auto;
+    max-width: 768px;
+    margin-bottom: 80px;
+  }
+
+
+  .header__container {
+    min-height: 69px;
+  }
+
+  .logo {
+    width: 72%;
+  }
+
+  .header__nav {
+    margin-right: 39px;
+  }
+
+  .header__link {
+    font-size: 17px;
+  }
+
+  .hero__container {
+    max-height: 662px;
+    padding: 0;
+  }
+
+  .hero__text-title {
+    max-height: 662px;
+    font-size: 50px;
+  }
+
+  .hero {
+    padding: 0 50px;
+  }
+
+  .container {
+    padding: 0 50px;
+  }
+
+  .hero__container {
+    max-height: 662px;
+    padding: 0;
+    background-image: url(../img/hero768.jpg);
+  }
+
+  .hero__container-text {
+    padding: 160px 40px;
+  }
+
+  .hero__container-description {
+    font-size: 18px;
+  }
+
+  .about-us__image-description {
+    padding: 26px 40px 20px;
+    min-height: 195px;
+  }
+
+  .about-us__image {
+    background-image: url(../img/about-us768.jpg)
+  }
+
+  .about-us__description {
+    margin-bottom: 60px;
+  }
+
+  .about-us__description-card-one {
+    padding-right: 34px;
+  }
+
+  .about-us__second-card {
+    background-position-x: 20px;
+    background-size: 22%;
+  }
+
+  .about-us__card-right {
+    padding: 0;
+    padding-right: 47px;
+    padding-top: 38px;
+    padding-bottom: 36px;
+    background-position-x: 40px;
+    background-position-y: 71px;
+    background-size: 17%;
+    min-height: 235px;
+  }
+
+  .about-us {
+    margin-bottom: 79px;
+  }
+
+  .stages__card {
+    flex-direction: column-reverse;
+  }
+
+  .stages__img-stage {
+    max-width: 100%;
+    width: 100%;
+    padding: 0;
+    max-height: 284px;
+    margin-bottom: 33px;
+    border-radius: 22px;
+  }
+
+  .stages__description-two {
+    font-size: 16px;
+    display: inline;
+  }
+
+  .stages__description-one {
+    display: inline;
+  }
+
+
+  .stages__title {
+    margin-bottom: 30px;
+  }
+
+  .stages__btn {
+    padding-top: 22px;
+  }
+
+  .stages__btn--stroke {
+    padding: 12px 34px;
+  }
+
+  .stages__subtitle {
+    margin-bottom: 8px;
+  }
+
+  .questions__list {
+    max-height: 200px;
+    padding: 66px 39px;
+  }
+
+  .questions__subtitle {
+    margin-bottom: 11px;
+  }
+
+  .second-card {
+    max-width: 87%;
+  }
+
+  .questions__subtitle-second {
+    max-width: 87%;
+  }
+
+  .footer {
+    max-height: 792px;
+  }
+
+  .footer__container {
+    flex-direction: column-reverse;
+    max-height: 792px;
+    gap: 0;
+  }
+
+  .footer__card-two {
+    max-width: 541px;
+    max-height: 494px;
+  }
+
+  .footer__nav {
+    display: none;
+  }
+
+  .textarea {
+    margin-bottom: 29px;
+  }
+
+  .footer__btn {
+    align-items: baseline;
+    min-width: 408px;
+  }
+
+  .footer__btn-fill {
+    margin-bottom: 20px;
+  }
+
+  .footer__item-footer {
+    font-size: 98%;
+  }
+
+  .footer__card-one {
+    line-height: 100%;
+    padding-top: 48px;
+  }
+
+  .footer__logo {
+    margin-bottom: 15px;
+  }
+
+}
+
+@media (max-width: 760px) {
+
+  .header {
+    min-height: 132px;
+    min-width: 414px;
+    margin-bottom: 20px;
+  }
+
+  .container {
+    padding: 0 15px;
+  }
+
+  .header__container {
+    min-height: 132px;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 17px 15px 38px;
+  }
+
+  .logo {
+    width: 50%;
+  }
+
+  .header__logo {
+    position: relative;
+  }
+
+  .header__link {
+    font-weight: 700;
+    font-size: 16px;
+  }
+
+  .header__nav {
+    margin: 0;
+    min-width: 399px;
+  }
+
+  .header__btn {
+    position: absolute;
+    right: 15px;
+    top: 22px;
+  }
+
+
+  .header__item {
+    min-width: 49px;
+    margin-right: 11px;
+  }
+
+  .third-item {
+    margin-right: 38px;
+  }
+
+  .last-item {
+    min-width: 144px;
+  }
+
+  .header__list {
+    gap: 16px;
+  }
+
+  .hero {
+    padding: 0 15px;
+    max-height: 308px;
+    margin-bottom: 60px;
+  }
+
+  .hero__container {
+    padding: 0;
+    min-height: 308px;
+    background-image: url(../img/hero320.jpg);
+    border-radius: 15px;
+  }
+
+  .hero__container-text {
+    max-height: 100%;
+    padding: 60px 22px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .hero__text-title {
+    max-width: 247px;
+    max-height: 49px;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 7px;
+  }
+
+  .hero__container-description {
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 34px;
+  }
+
+  .hero__container-btn-fill {
+    font-size: 12px;
+    padding: 15px 25px;
+    text-align: center;
+    transform: none;
+  }
+
+  .about-us__title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .about-us__description {
+    font-size: 14px;
+    margin-bottom: 14px;
+  }
+
+  .about-us__image {
+    background-image: url(../img/about-us320.jpg);
+    min-height: 200px;
+    position: relative;
+    border-radius: 15px;
+  }
+
+  .about-us__image-description {
+    flex-wrap: wrap;
+    background-image: none;
+    padding: 0;
+    position: absolute;
+    top: 205px;
+  }
+
+  .about-us__description-card-one {
+    padding: 0;
+    font-size: 14px;
+    margin-bottom: 9px;
+    font-weight: 400;
+    min-width: 290px;
+    color: var(--color-dark);
+  }
+
+  .about-us__card {
+    gap: 227px;
+  }
+
+  .about-us__btn {
+    padding: 10px 42px;
+    color: var(--color-orange);
+    font-size: 12px;
+  }
+
+  .about-us__card-right {
+    border: none;
+    padding: 0;
+    background-position-x: 0px;
+    background-position-y: 5px;
+    background-size: 22%;
+  }
+
+  .about-us__subtitle {
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  .about-us__description-card {
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .about-us__card-right-card {
+    padding-top: 100px;
+  }
+
+  .about-us__info {
+    gap: 9px;
+  }
+
+  .about-us {
+    margin-bottom: 71px;
+  }
+
+  .stages__title {
+    font-weight: 400;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .stages__img-stage {
+    min-height: 160px;
+    border-radius: 15px;
+    margin-bottom: 7px;
+  }
+
+  .stages__subtitle {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 178%;
+  }
+
+  .stages__description-one {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 200%;
+  }
+
+  .stages__description-two {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 200%;
+  }
+
+  .stages__btn--fill {
+    margin-right: 10px;
+    padding: 0 45px;
+    align-items: center;
+    font-weight: 700;
+    font-size: 12px;
+  }
+
+  .stages__btn--stroke {
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+    padding: 14px 31px;
+  }
+
+  .questions__title {
+    font-weight: 400;
+    font-size: 24px;
+    margin-bottom: 23px;
+  }
+
+  .stages {
+    margin-bottom: 58px;
+  }
+
+  .questions__list {
+    padding: 0;
+    border: none;
+  }
+
+  .questions__subtitle {
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 6px;
+  }
+
+  .one-description {
+    padding-right: 32px;
+  }
+
+  .questions__description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 200%;
+  }
+
+  .second-card {
+    max-width: 100%;
+  }
+
+  .footer__container {
+    padding: 30px 15px;
+  }
+
+  .main {
+    margin-bottom: 58px;
+  }
+
+  .footer__stages-title {
+    font-weight: 400;
+    font-size: 24px;
+    margin-bottom: 21px;
+  }
+
+  input {
+    padding-left: 19px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 229%;
+  }
+
+  .textarea {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 130%;
+    padding-left: 20px;
+    margin-bottom: 24px;
+  }
+
+  .footer__btn {
+    flex-direction: column;
+    align-items: center;
+    min-width: 290px;
+  }
+
+  .footer__btn-fill {
+    margin: 0;
+    min-width: 162px;
+    min-height: 40px;
+    font-weight: 700;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 18px;
+  }
+
+  .footer__card-one {
+    padding: 0;
+  }
+
+  .footer__logo {
+    max-width: 45%;
+  }
+
+  .footer__icon-one {
+    width: 40px;
+    height: 40px;
+  }
+
+  .footer__icon-two {
+    width: 40px;
+    height: 40px;
+  }
+
+  .footer__card-one {
+    align-items: center;
+    padding-top: 47px;
+  }
+
+  .footer__social-item-one {
+    margin-right: 15px;
+  }
+
+}
+
+
+@media (max-width: 576px) {
+
+  .header {
+    min-height: 132px;
+    min-width: 320px;
+    margin-bottom: 20px;
+  }
+
+  .container {
+    padding: 0 15px;
+  }
+
+  .header__container {
+    min-height: 132px;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 17px 15px 38px;
+  }
+
+  .logo {
+    width: 50%;
+  }
+
+  .header__logo {
+    position: relative;
+  }
+
+  .header__link {
+    font-weight: 700;
+    font-size: 16px;
+  }
+
+  .header__nav {
+    margin: 0;
+    max-width: 100%;
+    min-width: 100%;
+    overflow-x: auto;
+  }
+
+  .header__btn {
+    position: absolute;
+    right: 15px;
+    top: 22px;
+  }
+
+  .header__item {
+    min-width: 49px;
+    margin-right: 11px;
+  }
+
+  .third-item {
+    margin-right: 38px;
+  }
+
+  .last-item {
+    min-width: 144px;
+  }
+
+  .header__list {
+    gap: 16px;
+  }
+
+  .hero {
+    padding: 0 15px;
+    max-height: 308px;
+    margin-bottom: 60px;
+  }
+
+  .hero__container {
+    padding: 0;
+    min-height: 308px;
+    background-image: url(../img/hero320.jpg);
+    border-radius: 15px;
+  }
+
+  .hero__container-text {
+    max-height: 100%;
+    padding: 60px 22px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .hero__text-title {
+    max-width: 247px;
+    max-height: 49px;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 7px;
+  }
+
+  .hero__container-description {
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 34px;
+  }
+
+  .hero__container-btn-fill {
+    font-size: 12px;
+    padding: 15px 25px;
+    text-align: center;
+    transform: none;
+  }
+
+  .about-us__title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .about-us__description {
+    font-size: 14px;
+    margin-bottom: 14px;
+  }
+
+  .about-us__image {
+    background-image: url(../img/about-us320.jpg);
+    min-height: 200px;
+    position: relative;
+    border-radius: 15px;
+  }
+
+  .about-us__image-description {
+    flex-wrap: wrap;
+    background-image: none;
+    padding: 0;
+    position: absolute;
+    top: 205px;
+  }
+
+  .about-us__description-card-one {
+    padding: 0;
+    font-size: 14px;
+    margin-bottom: 9px;
+    font-weight: 400;
+    min-width: 290px;
+    color: var(--color-dark);
+  }
+
+  .about-us__card {
+    gap: 227px;
+  }
+
+  .about-us__btn {
+    padding: 10px 42px;
+    color: var(--color-orange);
+    font-size: 12px;
+  }
+
+  .about-us__card-right {
+    border: none;
+    padding: 0;
+    background-position-x: 0px;
+    background-position-y: 5px;
+    background-size: 22%;
+  }
+
+  .about-us__subtitle {
+    font-size: 18px;
+    font-weight: 500;
+  }
+
+  .about-us__description-card {
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  .about-us__card-right-card {
+    padding-top: 100px;
+  }
+
+  .about-us__info {
+    gap: 9px;
+  }
+
+  .about-us {
+    margin-bottom: 71px;
+  }
+
+  .stages__title {
+    font-weight: 400;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .stages__img-stage {
+    min-height: 160px;
+    border-radius: 15px;
+    margin-bottom: 7px;
+  }
+
+  .stages__subtitle {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 178%;
+  }
+
+  .stages__description-one {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 200%;
+  }
+
+  .stages__description-two {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 200%;
+  }
+
+  .stages__btn--fill {
+    margin-right: 10px;
+    padding: 0 45px;
+    align-items: center;
+    font-weight: 700;
+    font-size: 12px;
+  }
+
+  .stages__btn--stroke {
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+    padding: 14px 31px;
+  }
+
+  .questions__title {
+    font-weight: 400;
+    font-size: 24px;
+    margin-bottom: 23px;
+  }
+
+  .stages {
+    margin-bottom: 58px;
+  }
+
+  .questions__list {
+    padding: 0;
+    border: none;
+  }
+
+  .questions__subtitle {
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 6px;
+  }
+
+  .one-description {
+    padding-right: 32px;
+  }
+
+  .questions__description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 200%;
+  }
+
+  .second-card {
+    max-width: 100%;
+  }
+
+  .footer__container {
+    padding: 30px 15px;
+  }
+
+  .main {
+    margin-bottom: 58px;
+  }
+
+  .footer__stages-title {
+    font-weight: 400;
+    font-size: 24px;
+    margin-bottom: 21px;
+  }
+
+  input {
+    padding-left: 19px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 229%;
+  }
+
+  .textarea {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 130%;
+    padding-left: 20px;
+    margin-bottom: 24px;
+  }
+
+  .footer__btn {
+    flex-direction: column;
+    align-items: center;
+    min-width: 290px;
+  }
+
+  .footer__btn-fill {
+    margin: 0;
+    min-width: 162px;
+    min-height: 40px;
+    font-weight: 700;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 18px;
+  }
+
+  .footer__card-one {
+    padding: 0;
+  }
+
+  .footer__logo {
+    max-width: 45%;
+  }
+
+  .footer__icon-one {
+    width: 40px;
+    height: 40px;
+  }
+
+  .footer__icon-two {
+    width: 40px;
+    height: 40px;
+  }
+
+  .footer__card-one {
+    align-items: center;
+    padding-top: 47px;
+  }
+
+  .footer__social-item-one {
+    margin-right: 15px;
+  }
+}
+
+@media (max-width: 320px) {
+
+  .about-us__card-right {
+    border: none;
+    padding: 0;
+    background-position-x: 0px;
+    background-position-y: 5px;
+    background-size: 22%;
+  }
+
+  .about-us__card-right-card {
+    padding-top: 67px;
+  }
+
+}
